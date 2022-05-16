@@ -1,56 +1,49 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# To-Do-List
 
-> Description the project.
+> A simple to-do-list project with basic styling. The user can add a task, delete a task, edit a task and delete all completed tasks.
+> The data gets stored in the local storage.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- JavaScript
+- webpack
+- modules
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+## Live Site URL: https://stanleeeeee.github.io/To-Do-List/dist
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- web browser (e.g. Google Chrome, Firefox)
+- text editor (e.g. VSCode)
+- CLI/terminal
 
-### Setup
+### Clone this repository
 
-### Install
+```
+git clone https://github.com/Stanleeeeee/To-Do-List.git
+```
+### Open the project in the browser
 
-### Usage
-
-### Run tests
-
-### Deployment
-
+```
+npm run start
+```
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ezeoke Stanley Ifeanyi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Stanleeeeee](https://github.com/Stanleeeeee)
+- Twitter: [@Stanmega89](https://twitter.com/Stanmega89)
+- LinkedIn: [Ezeoke-Stanley](https://linkedin.com/in/Ezeoke-Stanley)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -62,11 +55,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
